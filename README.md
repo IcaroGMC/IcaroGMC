@@ -1,6 +1,8 @@
 # Hi! I'm Ícaro Gabriel
 
-- 🌱 Currently studying **Laravel**
+- 🌎 **Brazilian**
+- 💬 Languages: **English/Portuguese**
+- 🌱 Currently studying: **Laravel**
 - 😄 Pronouns: **Him/His**
 
 <div align="center">
