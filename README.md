@@ -2,7 +2,7 @@
 
 - 🌎 **Brazilian**
 - 💬 Languages: **English/Portuguese**
-- 🌱 Currently studying: **Laravel**
+- 🌱 Currently studying: **Vue.JS**
 - 😄 Pronouns: **Him/His**
 
 <div align="center">
